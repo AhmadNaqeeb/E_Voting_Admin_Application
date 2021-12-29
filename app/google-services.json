@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831893159542",
+    "project_id": "e-voting-admin-76dc6",
+    "storage_bucket": "e-voting-admin-76dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831893159542:android:998ee15a93d6789916e957",
+        "android_client_info": {
+          "package_name": "com.example.e_voting_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831893159542-bv1i81bql1cu4ipuc6oit60b228coivc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzBZGqPjtZOMY-WftJXc6Im0556iv-TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831893159542-bv1i81bql1cu4ipuc6oit60b228coivc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
